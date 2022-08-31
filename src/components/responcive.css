@@ -42,15 +42,15 @@
   @media (max-width: 576px){
     a.iconlink{
         padding: 5px 100px;
-        margin-left: 42px;
+        margin-left: 10px;
     }
     .homeicon{
         margin-top: 30px;
     }
     .bgleftbottom img {
-        margin-left: 400px;
-        width: 200px;
-        margin-top: -310px;
+        margin-left: 350px;
+        width: 190px;
+        margin-top: -440px;
     }
     .homeimg{
         margin-left: 50px;
@@ -60,6 +60,12 @@
         padding: 40px 40px;
         height: 250px;
         margin-top: -250px;
+    }
+    .Typewriter__wrapper{
+        font-size: 22px;
+    }
+    .homep{
+        font-size: 18px;
     }
 
   }

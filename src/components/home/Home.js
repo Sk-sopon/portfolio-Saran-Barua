@@ -26,7 +26,7 @@ export default function Home() {
                         <h1>Saran Barua</h1>
                         <Type />
                         <hr className='hr' />
-                        <p>I am a passionate web developer who wants to learn more and more about web-based technology. I want to touch the highest peak of web development and provide value to the organization I work.</p>
+                        <p className='homep'>I am a passionate web developer who wants to learn more and more about web-based technology. I want to touch the highest peak of web development and provide value to the organization I work.</p>
 
                         <div className="iconsbtn">
 
