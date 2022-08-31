@@ -13,10 +13,19 @@
        height: auto;
     }
     .projectover {
-        width: 87%;
+        width: 65%;
         height: 330px;
         margin-left: 15px;
-        margin-top: -330px;
+        margin-top: -350px;
+        padding-bottom: 300px;
+    }
+    .projectContentWrapper {
+        width: 80%;
+        
+    }
+    .projectthree {
+        height: 350px;
+        width: 65.5%;
     }
     .projectimg img{
         margin-top: 20px;
@@ -28,4 +37,29 @@
     .messes{
         width: 90%;
     }
+  }
+
+  @media (max-width: 576px){
+    a.iconlink{
+        padding: 5px 100px;
+        margin-left: 42px;
+    }
+    .homeicon{
+        margin-top: 30px;
+    }
+    .bgleftbottom img {
+        margin-left: 400px;
+        width: 200px;
+        margin-top: -310px;
+    }
+    .homeimg{
+        margin-left: 50px;
+    }
+    .projectover {
+        width: 83%;
+        padding: 40px 40px;
+        height: 250px;
+        margin-top: -250px;
+    }
+
   }
