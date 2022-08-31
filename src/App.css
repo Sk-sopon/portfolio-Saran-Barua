@@ -1,0 +1,51 @@
+/* .pdf{
+  width: 1000px;
+} */
+
+/* .content{
+    display: flex;
+    width: 100%;
+}
+.home{
+    background-color: skyblue;
+}
+.pages{
+    background-color: red;
+}
+.app{
+    width: 100%;
+} */
+
+body {
+    background-color: #323949 !important; 
+     background-image: url(../public/images/bg.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    font-family: 'Public Sans', sans-serif;
+}
+/* .app Button{
+    width: 300px;
+} */
+
+
+
+
+.App {
+    /* background-color: #4f19e399; */
+}
+.bgright img {
+    width: 60%;
+    float: right;
+    display: none;
+}
+.bgleft img{
+    width: 300px;
+
+}
+.bagimg{
+    position: relative;
+}
+.bgleftbottom.col {
+    margin-top: 250px;
+    margin-left: -200px;
+}

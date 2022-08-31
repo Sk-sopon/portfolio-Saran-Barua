@@ -1,0 +1,55 @@
+
+.contactme {
+    text-align: center;
+    color: #b5a5ac;
+    margin-top: 30px;
+}
+.hr{
+    width: 100%;
+    text-align: center;
+}
+.hr hr {
+    width: 100px;
+    margin: auto;
+    padding: 3px 0px;
+    border: none;
+    background-color: rgb(192, 192, 205);
+    border-radius: 50px;
+    /* margin-top: -9px; */
+    margin-bottom: 10px;
+}
+input.input {
+    width: 40%;
+    padding: 5px 30px;
+    outline: none;
+    border-radius: 30px 70px 30px 70px;
+    border: none;
+}
+.messes{
+    width: 40%;
+    padding: 15px 30px;
+    outline: none;
+    border-radius: 30px 70px 30px 70px;
+    border: none;
+}
+
+
+
+/* -----footer------ */
+
+
+.fotter img {
+    width: 200px;
+}
+.fotter {
+    text-align: center;
+    margin-top: 60px;
+    color: #219f94;
+}
+.fotter h4 {
+    padding: 20px;
+}
+.contactbtn{
+    margin:auto;
+    margin-top: 20px;
+}

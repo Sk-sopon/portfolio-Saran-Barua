@@ -1,0 +1,43 @@
+
+.skillcontent{
+    text-align: center;
+    color: #b5a5ac;
+    margin-top: 80px;
+    margin-bottom: 20px;
+
+}
+.progress{
+    --bs-progress-bg: #9fa3a9;
+}
+.skillcontent hr {
+    width: 100px;
+    margin: auto;
+    padding: 3px 0px;
+    border: none;
+    background-color: rgb(192, 192, 205);
+    border-radius: 50px;
+    /* margin-top: -9px; */
+    margin-bottom: 10px;
+}
+.skill{
+    width: 50%;
+    /* text-align: center; */
+}
+.softskill.row {
+    margin-top: 40px;
+}
+.progress{
+    height: 10px !important;
+}
+.softskill h1 {
+    font-size: 20px;
+    color: #b5a5ac;
+}
+.skillwrapper.col h1 {
+    font-size: 20px;
+    color: #219f94;
+}
+.progress-bar{
+    background-color: #5c483c !important;
+    color: #b5a5ac;
+}

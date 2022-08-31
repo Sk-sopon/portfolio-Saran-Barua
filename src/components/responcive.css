@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+    a.iconlink {
+        padding: 5px 100px;
+        margin-left: 40px;
+        margin-left: 100px;
+    }
+
+    .homeicon{
+        margin-top: 20px;
+    }
+    .homeimg{
+       width: 70%;
+       height: auto;
+    }
+    .projectover {
+        width: 87%;
+        height: 330px;
+        margin-left: 15px;
+        margin-top: -330px;
+    }
+    .projectimg img{
+        margin-top: 20px;
+        margin-left: 15px;
+    }
+    input.input{
+        width: 90%;
+    }
+    .messes{
+        width: 90%;
+    }
+  }
