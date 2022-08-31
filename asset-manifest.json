@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-Saran-Barua/static/css/main.d32b0c67.css",
+    "main.css": "/portfolio-Saran-Barua/static/css/main.acba3adc.css",
     "main.js": "/portfolio-Saran-Barua/static/js/main.218aabc0.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio-Saran-Barua/static/js/787.28cb0dcd.chunk.js",
     "static/media/bg.jpg": "/portfolio-Saran-Barua/static/media/bg.8569512c7f253e6f2467.jpg",
     "index.html": "/portfolio-Saran-Barua/index.html",
-    "main.d32b0c67.css.map": "/portfolio-Saran-Barua/static/css/main.d32b0c67.css.map",
+    "main.acba3adc.css.map": "/portfolio-Saran-Barua/static/css/main.acba3adc.css.map",
     "main.218aabc0.js.map": "/portfolio-Saran-Barua/static/js/main.218aabc0.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio-Saran-Barua/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d32b0c67.css",
+    "static/css/main.acba3adc.css",
     "static/js/main.218aabc0.js"
   ]
 }
